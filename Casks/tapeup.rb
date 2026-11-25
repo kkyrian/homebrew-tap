@@ -1,6 +1,6 @@
 cask "tapeup" do
-  version "0.1.7"
-  sha256 "c0dc4358a4761eae292d466b1666fe784855737b1e949a34087148d8d2e82f80"
+  version "0.1.8"
+  sha256 "009d87e209cb99b0901fd556da73e679e45329368059cf7ab32808a5474e0fac"
 
   url "https://github.com/kkyrian/tapeup/releases/download/v#{version}/TapeUp.dmg"
   name "TapeUp"
